@@ -21,5 +21,5 @@ Ejemplo para los custom fields:
     data={'seo_schema':'odio php desde las pages'},
     auth=(user, passw), headers=headers)
 
-Estos ejemplos son validos para enviar cualquier tipo de informacion informacion a los custom fields, el funcionamiento real para los schemas o meta tags viene dada por como en su lenguaje les permita enviar la informacion en un string
+Estos ejemplos son validos para enviar cualquier tipo de informacion a los custom fields, el funcionamiento real para los schemas o meta tags viene dada por como en su lenguaje les permita enviar la informacion en un string
 y recibirla en la funcion de php json_decode().
